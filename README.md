@@ -7,4 +7,6 @@ http://www.tamilvu.org/ta/content/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D%
 
 Thanks to Tamil Virtual Academy, Chennai for releasing ths source code of this application.
 
-License : GPL V3
+License : GPL V2
+
+Check https://commons.wikimedia.org/wiki/File:Tamil-Virtual-Academy-Copyright-Declaration.jpg for license info.
