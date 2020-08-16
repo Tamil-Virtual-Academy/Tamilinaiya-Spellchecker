@@ -1,0 +1,25 @@
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\bin\Debug\Vaani.exe.config
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\obj\Debug\Vaani.csprojResolveAssemblyReference.cache
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\obj\Debug\Vaani.Properties.Resources.resources
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\obj\Debug\Vaani.csproj.GenerateResource.Cache
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\bin\Debug\Vaani.exe
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\bin\Debug\Vaani.pdb
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\obj\Debug\Vaani.exe
+c:\users\raja_raman\documents\visual studio 2013\Projects\Vaani\Vaani\obj\Debug\Vaani.pdb
+C:\Users\raja_raman\Documents\Visual Studio 2013\Projects\Vaani\Vaani\obj\Debug\Vaani.Vaani.resources
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\bin\Debug\Vaani.exe.config
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\bin\Debug\Vaani.exe
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\bin\Debug\Vaani.pdb
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\obj\Debug\Vaani.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\obj\Debug\Vaani.Vaani.resources
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\obj\Debug\Vaani.Properties.Resources.resources
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\obj\Debug\Vaani.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\obj\Debug\Vaani.exe
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\obj\Debug\Vaani.pdb
+C:\Users\acer\Desktop\Rajaraman\source\Vaani\bin\Debug\VaaniEditor.dll
+C:\Users\Acer\Desktop\Rajaraman\source\Vaani\bin\Debug\mscorlib.dll
+C:\Users\Acer\Desktop\Rajaraman\source\Vaani\bin\Debug\normidna.nlp
+C:\Users\Acer\Desktop\Rajaraman\source\Vaani\bin\Debug\normnfc.nlp
+C:\Users\Acer\Desktop\Rajaraman\source\Vaani\bin\Debug\normnfd.nlp
+C:\Users\Acer\Desktop\Rajaraman\source\Vaani\bin\Debug\normnfkc.nlp
+C:\Users\Acer\Desktop\Rajaraman\source\Vaani\bin\Debug\normnfkd.nlp
