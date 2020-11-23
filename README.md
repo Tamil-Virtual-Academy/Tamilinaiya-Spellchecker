@@ -14,6 +14,7 @@ Thanks to Tamil Virtual Academy, Chennai for releasing the source code of this a
 
 License : GNU GPL V2
 
+```
 This program is free software.
 It is licensed under the GNU GPL version 2 or later.
 That means you are free to use this program for any purpose;
@@ -23,6 +24,7 @@ If you share this program or your modifications
 you must grant the recipients the same freedoms.
 To be more specific: you must share the source code under the same license.
 For details see https://www.gnu.org/licenses/gpl-2.0.html
+```
 
 Check license.txt for full license info.
 
@@ -30,9 +32,10 @@ Check license.txt for full license info.
 Check https://commons.wikimedia.org/wiki/File:Tamil-Virtual-Academy-Copyright-Declaration.jpg for license info.
 
 
-
+```
 Copyright (C) 2018 Neechalkaran
 Developed based on http://vaani.neechalkaran.com
 Funded by Tamil Virtual Academy, Govt of Tamil Nadu, Kotturpuram, Guindy
 For more details contact neechalkaran@gmail.com
+```
 
